@@ -1,0 +1,5 @@
+from .menu_handlers import register_menu_handlers
+from .registration_handlers import register_handlers_reg
+from .basket_handlers import register_basket_handlers
+from .order_handlers import register_order_handlers
+from .admin_handlers import register_admin_handlers
